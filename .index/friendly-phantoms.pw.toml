@@ -1,0 +1,21 @@
+filename = 'phantoms-1.21.1-0.1.3.jar'
+name = 'Friendly Phantoms'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'phantoms-1.21.1-0.1.3.jar'
+
+[download]
+hash = 'cbae052594e0da6325e1bc5897cb89c7cfafb2b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5923164
+project-id = 915897
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
