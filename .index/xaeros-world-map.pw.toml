@@ -1,19 +1,19 @@
-filename = 'xaeroworldmap-neoforge-1.21.1-1.44.2.jar'
+filename = 'xaeroworldmap-neoforge-1.21.1-1.47.0.jar'
 name = "Xaero's World Map"
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'xaeroworldmap-neoforge-1.21.1-1.44.2.jar'
+x-prismlauncher-version-number = 'xaeroworldmap-neoforge-1.21.1-1.47.0.jar'
 
 [download]
-hash = 'beea95c1a2ca78e1a6ca0a0ddc7770672101fb60'
+hash = '2936c9cb9dfbdab145fe6f1e8ae2c68915246a5f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8449921
+file-id = 9067277
 project-id = 317780
 
 [[x-prismlauncher-dependencies]]
